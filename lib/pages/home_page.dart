@@ -11,7 +11,7 @@ class HomePage extends StatelessWidget {
     return Scaffold(
         appBar: AppBar(
           centerTitle: true,
-          title: const Text("Footware Store"),
+          title: const Text("Footwear Store"),
           actions: [
             IconButton(
               onPressed: () {},
